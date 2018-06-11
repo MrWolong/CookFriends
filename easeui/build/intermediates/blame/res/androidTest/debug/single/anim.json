@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\fade_out.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\photo_album_show.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\anim\\photo_album_show.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\push_top_in.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\anim\\push_top_in.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\ucrop_close.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-v2.1.6.aar\\c606f0ee9af46ec3647fc44d254307eb\\res\\anim\\ucrop_close.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\head_out.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\anim\\head_out.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\modal_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\anim\\modal_out.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\up_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\anim\\up_in.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\fade_in.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\push_bottom_in.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_right.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_right.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\voice_to_icon.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\anim\\voice_to_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\hold.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\photo_album_dismiss.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\anim\\photo_album_dismiss.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\a5.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\anim\\a5.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\push_bottom_out.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_left.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\head_in.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\anim\\head_in.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\push_top_in2.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\anim\\push_top_in2.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\push_top_out.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\anim\\push_top_out.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\a3.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\anim\\a3.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\push_top_out2.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\anim\\push_top_out2.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\down_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\anim\\down_out.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\photo_overshoot_interpolator.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\anim\\photo_overshoot_interpolator.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\modal_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\anim\\modal_in.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\ucrop_loader_circle_scale.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-v2.1.6.aar\\c606f0ee9af46ec3647fc44d254307eb\\res\\anim\\ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\photo_anticipate_interpolator.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\anim\\photo_anticipate_interpolator.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\voice_from_icon.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\anim\\voice_from_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_left.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\ucrop_loader_circle_path.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-v2.1.6.aar\\c606f0ee9af46ec3647fc44d254307eb\\res\\anim\\ucrop_loader_circle_path.xml"
+    }
+]

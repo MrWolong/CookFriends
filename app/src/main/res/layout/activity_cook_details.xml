@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDEDED"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/toolbar"
+        app:contentInsetStart="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary">
+        <ImageView
+            android:id="@+id/iv_back_cookery"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_arrow_back"/>
+        <TextView
+            android:id="@+id/tv_cook_title"
+            android:text="菜名"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@android:color/white"
+            android:layout_gravity="center"/>
+    </android.support.v7.widget.Toolbar>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ScrollView
+            android:id="@+id/scrollView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingLeft="1dp"
+                android:paddingRight="1dp">
+                <ImageView
+                    android:id="@+id/header_img"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    android:layout_marginTop="2dp"
+                    android:scaleType="centerCrop" />
+                <RelativeLayout
+                    android:id="@+id/layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp">
+                    <CheckedTextView
+                        android:id="@+id/tv_collect"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:checked="false"
+                        android:drawablePadding="3dp"
+                        android:focusable="true"
+                        android:gravity="center_vertical"
+                        android:text="收藏" />
+                    <TextView
+                        android:id="@+id/name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="15dp"
+                        android:layout_toLeftOf="@+id/tv_collect"
+                        android:padding="5dp"
+                        android:singleLine="true"
+                        android:textSize="21sp" />
+                </RelativeLayout>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:background="#9e9e9e" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:paddingBottom="15dp"
+                    android:paddingTop="10dp"
+                    android:text="简介"
+                    android:textColor="@color/black"
+                    android:textSize="18sp" />
+                <TextView
+                    android:id="@+id/text_intro"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:text="简介"
+                    android:textColor="#EECD661D" />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginTop="15dp"
+                    android:background="#9e9e9e" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:paddingBottom="15dp"
+                    android:paddingTop="15dp"
+                    android:text="食材明细"
+                    android:textColor="@color/black"
+                    android:textSize="18sp" />
+                <LinearLayout
+                    android:id="@+id/materials_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_marginTop="15dp"
+                    android:background="#9e9e9e" />
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:paddingBottom="15dp"
+                        android:paddingTop="15dp"
+                        android:text="制作步骤"
+                        android:textColor="@color/black"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:paddingBottom="15dp"
+                        android:paddingRight="5dp"
+                        android:paddingTop="15dp"
+                        android:text="↓点击步骤可以看大图哦"
+                        android:textColor="#55444444"
+                        android:textSize="16sp" />
+                </RelativeLayout>
+                <com.example.thomas.cookfriends.widget.MyListView
+                    android:id="@+id/lv_steps"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:divider="#00000000"
+                    android:dividerHeight="5dp" />
+            </LinearLayout>
+        </ScrollView>
+
+    </RelativeLayout>
+
+</LinearLayout>

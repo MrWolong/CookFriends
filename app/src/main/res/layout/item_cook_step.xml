@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    android:orientation="vertical"
+    app:cardCornerRadius="5dp"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:src="@mipmap/ic_launcher"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/step_num"
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:layout_marginStart="20dp"
+                android:text="1"
+                android:textSize="20sp" />
+            <TextView
+                android:id="@+id/text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="20dp"
+                android:maxLines="7"
+                android:padding="5dp"
+                android:textSize="16sp"
+                android:text="把柠檬汁挤出用小碗盛着，放入调味料：鱼露、精盐、鸡精、白糖（多一些白糖）沾一点尝尝，汁不要太酸也不要太甜。" />
+
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>

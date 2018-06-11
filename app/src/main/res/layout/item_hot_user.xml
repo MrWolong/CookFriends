@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:clickable="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        app:cardCornerRadius="0dp"
+        app:cardElevation="0dp"
+        android:background="?attr/selectableItemBackground">
+
+        <RelativeLayout
+            android:layout_margin="18dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/hotposition"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="30sp"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:textColor="#4CAF50"/>
+            <TextView
+                android:id="@+id/hotshow"
+                android:text="↑"
+                android:layout_centerVertical="true"
+                android:visibility="gone"
+                android:textColor="#F44336"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="12sp"
+                android:layout_toRightOf="@+id/hotposition"
+                android:layout_marginRight="16dp"/>
+            <ImageView
+                android:id="@+id/hotimage"
+                android:layout_toRightOf="@+id/hotshow"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginRight="16dp" />
+            <TextView
+                android:id="@+id/hotname"
+                android:layout_toRightOf="@+id/hotimage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:textSize="15sp"/>
+            <TextView
+                android:id="@+id/hotnum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:textColor="#C62828"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"/>
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

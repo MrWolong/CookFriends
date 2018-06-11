@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/colorBackground"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <SearchView
+        android:id="@+id/search"
+        android:textSize="13sp"
+        android:iconifiedByDefault="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </SearchView>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="35dp">
+        <Button
+            android:id="@+id/share_button"
+            android:text="分享"
+            android:textSize="13sp"
+            android:background="@drawable/shape_3"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/collection_button"
+            android:text="收藏夹"
+            android:textSize="13sp"
+            android:background="@drawable/shape_2"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </ListView>
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </android.support.v7.widget.RecyclerView>
+
+</LinearLayout>

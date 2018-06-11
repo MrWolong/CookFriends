@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.Toolbar
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/toolbar"
+        app:contentInsetStart="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary">
+        <!--添加Toolbar的子控件-->
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_arrow_back"/>
+        <TextView
+            android:id="@+id/title"
+            android:text="用户详情"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textSize="16sp"
+            android:textColor="@android:color/white"/>
+    </android.support.v7.widget.Toolbar>
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.constraint.ConstraintLayout
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+                <ImageView
+                    android:id="@+id/bgImg"
+                    android:layout_width="0dp"
+                    android:layout_height="150dp"
+                    android:scaleType="centerCrop"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"/>
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="150dp"
+                    android:scaleType="centerCrop"
+                    android:background="@color/trans1"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"/>
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/avatar"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="110dp"
+                    app:civ_border_width="1dp"
+                    app:civ_border_color="@color/white"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toTopOf="@+id/bgImg"/>
+                <TextView
+                    android:id="@+id/name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="用户名"
+                    android:textColor="@color/colorPrimary"
+                    android:layout_marginTop="7dp"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/avatar"/>
+                <TextView
+                    android:id="@+id/intro"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="这个人很懒，什么都没有留下~"
+                    android:textColor="@color/colorBase2"
+                    android:layout_marginTop="5dp"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/name" />
+                <Button
+                    android:id="@+id/call"
+                    android:layout_width="70dp"
+                    android:layout_height="25dp"
+                    android:background="@drawable/shape_3"
+                    android:layout_marginTop="10dp"
+                    android:text="私信"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/intro"/>
+            </android.support.constraint.ConstraintLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <Button
+                    android:id="@+id/user_share"
+                    android:text="TA的分享"
+                    android:textColor="@color/black"
+                    android:layout_weight="1"
+                    android:background="@drawable/shape_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+                <Button
+                    android:id="@+id/user_collection"
+                    android:text="TA的收藏"
+                    android:textColor="@color/black"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:background="@drawable/shape_2"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+            <ListView
+                android:id="@+id/listview"
+                android:focusable="false"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+            </ListView>
+            <RelativeLayout
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/recyclerview"
+                    android:focusable="false"
+                    android:visibility="gone"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                </android.support.v7.widget.RecyclerView>
+            </RelativeLayout>
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

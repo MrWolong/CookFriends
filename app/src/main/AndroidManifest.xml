@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.thomas.cookfriends">
+    <!-- 允许联网 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 获取GSM（2g）、WCDMA（联通3g）等网络状态的信息 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 获取wifi网络状态的信息 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 保持CPU 运转，屏幕和键盘灯有可能是关闭的,用于文件上传和下载 -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <!-- 获取sd卡写的权限，用于文件上传和下载 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 允许读取手机状态 用于创建BmobInstallation -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+
+    <uses-feature android:name="android.hardware.camera"/>
+    <uses-feature android:name="android.hardware.camera.autofocus"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+
+    <application
+        android:name=".app.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ui.WelcomeActivity"
+            android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.MainActivity"
+            android:windowSoftInputMode="adjustPan|stateHidden"/>
+        <activity android:name=".ui.LoginActivity"></activity>
+        <activity android:name=".ui.RegisterActivity"></activity>
+        <activity android:name=".ui.CookDetailActivity"></activity>
+        <activity android:name=".ui.CookSearchActivity"></activity>
+        <activity android:name=".ui.ShowCookeryActivity"></activity>
+        <activity android:name=".ui.MenuActivity"></activity>
+        <activity android:name=".ui.HotUserActivity"></activity>
+        <activity android:name=".ui.HotShareActivity"></activity>
+        <activity android:name=".ui.HotCollectionActivity"></activity>
+        <activity android:name=".ui.ShareActivity"></activity>
+        <activity android:name=".ui.ShareDetailActivity"></activity>
+        <activity android:name=".ui.ImagePagerActivity"></activity>
+        <activity android:name=".ui.UserMessageActivity"></activity>
+        <activity android:name=".ui.MyShareActivity"></activity>
+        <activity android:name=".ui.UserHomepageActivity"></activity>
+        <activity android:name=".ui.MyCollectionActivity"></activity>
+        <activity android:name=".ui.AddCollection"></activity>
+        <activity android:name=".ui.CollectionDetailActivity"></activity>
+        <activity android:name=".ui.MyLikeActivity"></activity>
+        <activity android:name=".ui.DetailSearchActivity"></activity>
+
+        <!-- 聊天页面 -->
+        <activity
+            android:name=".ui.chat.ChatActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <!-- 添加好友 -->
+        <activity
+            android:name=".ui.chat.AddContactActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateVisible" />
+        <!-- 群组详情 -->
+        <activity
+            android:name=".ui.chat.GroupDetailsActivity"
+            android:screenOrientation="portrait" />
+        <!-- 群组列表 -->
+        <activity
+            android:name=".ui.chat.GroupsActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 新建群组 -->
+        <activity
+            android:name=".ui.chat.NewGroupActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 退出群组提示框 -->
+        <activity
+            android:name=".ui.chat.ExitGroupDialog"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyDialogStyleBottom" />
+        <!-- 群组选人 -->
+        <activity
+            android:name=".ui.chat.GroupPickContactsActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".ui.chat.PickAtUserActivity"
+            android:screenOrientation="portrait"
+            />
+        <!-- 地图 -->
+        <activity
+            android:name="com.hyphenate.easeui.ui.EaseBaiduMapActivity"
+            android:screenOrientation="portrait"
+            />
+        <!-- 新的朋友邀请消息页面 -->
+        <activity
+            android:name=".ui.chat.NewFriendsMsgActivity"
+            android:screenOrientation="portrait"
+            />
+        <!-- 转发消息用户列表页面 -->
+        <activity
+            android:name=".ui.chat.ForwardMessageActivity"
+            android:screenOrientation="portrait"
+
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 自定义的contextmenu -->
+        <activity
+            android:name=".ui.chat.ContextMenuActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyDialogStyle" />
+        <!-- 显示下载大图页面 -->
+        <activity
+            android:name="com.hyphenate.easeui.ui.EaseShowBigImageActivity"
+            android:screenOrientation="portrait"
+            />
+        <!-- 下载文件 -->
+        <activity
+            android:name="com.hyphenate.easeui.ui.EaseShowNormalFileActivity"
+            android:screenOrientation="portrait"
+            />
+        <!-- 黑名单 -->
+        <activity
+            android:name=".ui.chat.BlacklistActivity"
+            android:screenOrientation="portrait"
+            />
+        <!-- 公开的群聊列表 -->
+        <activity
+            android:name=".ui.chat.PublicGroupsActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 语音通话 -->
+        <activity
+            android:name=".ui.chat.VoiceCallActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <!-- 视频通话 -->
+        <activity
+            android:name=".ui.chat.VideoCallActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            />
+        <!-- 群聊简单信息 -->
+        <activity
+            android:name=".ui.chat.GroupSimpleDetailActivity"
+            android:screenOrientation="portrait"
+            />
+        <!-- 群组黑名单用户列表 -->
+        <activity
+            android:name=".ui.chat.GroupBlacklistActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".ui.chat.GroupSearchMessageActivity"
+            android:screenOrientation="portrait"
+
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name=".ui.chat.PublicGroupsSeachActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".ui.chat.EditActivity"
+            android:screenOrientation="portrait"
+
+            android:windowSoftInputMode="stateVisible" />
+        <activity android:name=".ui.chat.SharedFilesActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name="com.hyphenate.easeui.ui.EaseShowVideoActivity"
+            android:screenOrientation="portrait"
+
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <!-- Ding msg send activity -->
+        <activity
+            android:name="com.hyphenate.easeui.ui.EaseDingMsgSendActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <!-- Ding ack user list activity -->
+        <activity
+            android:name="com.hyphenate.easeui.ui.EaseDingAckUserListActivity"
+            android:screenOrientation="portrait"
+
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <!-- choose video -->
+        <activity
+            android:name=".ui.chat.ImageGridActivity"
+            android:screenOrientation="portrait"
+
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name=".ui.chat.RecorderVideoActivity"
+            android:screenOrientation="portrait"
+
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <!-- upload error log -->
+
+        <activity
+            android:name=".ui.chat.OfflinePushSettingsActivity"
+            android:screenOrientation="portrait"
+            />
+
+
+        <!-- mi push -->
+        <service
+            android:name="com.xiaomi.mipush.sdk.PushMessageHandler"
+            android:enabled="true"
+            android:exported="true"
+            tools:ignore="ExportedService" />
+        <service
+            android:name="com.xiaomi.mipush.sdk.MessageHandleService"
+            android:enabled="true" />
+        <receiver
+            android:name="com.hyphenate.chat.EMMipushReceiver"
+            android:exported="true"
+            tools:ignore="ExportedReceiver">
+            <intent-filter>
+                <action android:name="com.xiaomi.mipush.RECEIVE_MESSAGE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.xiaomi.mipush.MESSAGE_ARRIVED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.xiaomi.mipush.ERROR" />
+            </intent-filter>
+        </receiver>
+        <!-- mi push end -->
+
+        <!--华为 HMS Config-->
+        <meta-data
+            android:name="com.huawei.hms.client.appid"
+            android:value="10492024" />
+        <!--华为推送 start-->
+        <receiver android:name="com.hyphenate.chat.EMHWPushReceiver">
+            <intent-filter>
+                <!-- 必须,用于接收 TOKEN -->
+                <action android:name="com.huawei.android.push.intent.REGISTRATION"/>
+                <!-- 必须，用于接收消息 -->
+                <action android:name="com.huawei.android.push.intent.RECEIVE"/>
+                <!-- 可选，用于点击通知栏或通知栏上的按钮后触发 onEvent 回调 -->
+                <action android:name="com.huawei.android.push.intent.CLICK"/>
+                <!-- 可选，查看 PUSH 通道是否连接，不查看则不需要 -->
+                <action android:name="com.huawei.intent.action.PUSH_STATE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.huawei.hms.support.api.push.PushEventReceiver">
+            <intent-filter>
+                <!-- 接收通道发来的通知栏消息，兼容老版本 PUSH -->
+                <action android:name="com.huawei.intent.action.PUSH"/>
+            </intent-filter>
+        </receiver>
+        <!-- huawei push end -->
+
+        <!-- 设置环信应用的appkey -->
+        <meta-data
+            android:name="EASEMOB_APPKEY"
+            android:value="1146170627115734#im" />
+        <!-- 声明sdk所需的service -->
+        <service
+            android:name="com.hyphenate.chat.EMChatService"
+            android:exported="true"
+            tools:ignore="ExportedService" />
+        <service
+            android:name="com.hyphenate.chat.EMJobService"
+            android:exported="true"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <!-- 声明sdk所需的receiver -->
+        <receiver android:name="com.hyphenate.chat.EMMonitorReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+                <data android:scheme="package" />
+            </intent-filter>
+            <!-- 可选filter -->
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.USER_PRESENT" />
+            </intent-filter>
+        </receiver>
+        <!-- 百度地图所需的service -->
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote" />
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="3ecea51f560650b1ed8a4b99808f52e8" />
+    </application>
+
+</manifest>

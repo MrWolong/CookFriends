@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\aa95055cd29be5d735b2b0d3e45b36e3\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_chatto_bg.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_chatto_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_sidebar_background_pressed.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_sidebar_background_pressed.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f243d299e7951d2f761f12b2eb0be63d\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\aa95055cd29be5d735b2b0d3e45b36e3\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ucrop_oval_true.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-v2.1.6.aar\\c606f0ee9af46ec3647fc44d254307eb\\res\\drawable\\ucrop_oval_true.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\recall_message_bg.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\recall_message_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ucrop_shadow_upside.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-v2.1.6.aar\\c606f0ee9af46ec3647fc44d254307eb\\res\\drawable\\ucrop_shadow_upside.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\aa95055cd29be5d735b2b0d3e45b36e3\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_chatting_setmode_voice_btn.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_chatting_setmode_voice_btn.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_chatfrom_bg.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_chatfrom_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\p_seekbar_thumb_pressed.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\p_seekbar_thumb_pressed.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ucrop_vector_loader.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-v2.1.6.aar\\c606f0ee9af46ec3647fc44d254307eb\\res\\drawable\\ucrop_vector_loader.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\aa95055cd29be5d735b2b0d3e45b36e3\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_msg_state_failed_resend.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_msg_state_failed_resend.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_recording_text_hint_bg.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_recording_text_hint_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\audio_placeholder.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\audio_placeholder.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_timestampe_bg.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_timestampe_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_search_clear.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_search_clear.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_chat_image_selector.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_chat_image_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\aa95055cd29be5d735b2b0d3e45b36e3\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_chat_location_selector.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_chat_location_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\gif_tag.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\gif_tag.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_recording_hint_bg.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_recording_hint_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ucrop_vector_loader_animated.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-v2.1.6.aar\\c606f0ee9af46ec3647fc44d254307eb\\res\\drawable\\ucrop_vector_loader_animated.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\aa95055cd29be5d735b2b0d3e45b36e3\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_chatting_setmode_keyboard_btn.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_chatting_setmode_keyboard_btn.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\picture_sb_thumb.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\picture_sb_thumb.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_right_bottom_selector.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\btn_right_bottom_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_btn_blue_pressed_shape.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_btn_blue_pressed_shape.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\picture_checkbox_selector.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\picture_checkbox_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_right_true.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\btn_right_true.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\p_seekbar_thumb_normal.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\p_seekbar_thumb_normal.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\aa95055cd29be5d735b2b0d3e45b36e3\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_chat_press_speak_btn.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_chat_press_speak_btn.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_left_bottom_selector.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\btn_left_bottom_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f243d299e7951d2f761f12b2eb0be63d\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_left_true.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\btn_left_true.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_common_tab_bg.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_common_tab_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\aa95055cd29be5d735b2b0d3e45b36e3\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\picture_btn_music_shape.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\picture_btn_music_shape.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_btn_blue_normal_shape.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_btn_blue_normal_shape.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\picture_layer_progress.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\picture_layer_progress.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\orange_oval.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\orange_oval.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f243d299e7951d2f761f12b2eb0be63d\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_btn_cancel_bj.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_btn_cancel_bj.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_btn_blue_selector.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_btn_blue_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\image_placeholder.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\image_placeholder.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_shadow.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\dialog_shadow.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\aa95055cd29be5d735b2b0d3e45b36e3\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\num_oval.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\num_oval.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_edit_text_bg.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_edit_text_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\aa95055cd29be5d735b2b0d3e45b36e3\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_btn_cancel_pressed_shape.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_btn_cancel_pressed_shape.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_right_false.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\btn_right_false.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_chat_takepic_selector.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_chat_takepic_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\aa95055cd29be5d735b2b0d3e45b36e3\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_left_false.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\btn_left_false.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_type_select_btn.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_type_select_btn.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_mm_listitem_grey.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_mm_listitem_grey.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\aa95055cd29be5d735b2b0d3e45b36e3\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ucrop_vector_ic_crop.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-v2.1.6.aar\\c606f0ee9af46ec3647fc44d254307eb\\res\\drawable\\ucrop_vector_ic_crop.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_chat_send_btn_selector.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_chat_send_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_custom_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\dialog_custom_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\aa95055cd29be5d735b2b0d3e45b36e3\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.4.0.aar\\aa95055cd29be5d735b2b0d3e45b36e3\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_mm_listitem.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_mm_listitem.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ease_btn_cancel_normal_shape.xml",
+        "source": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable\\ease_btn_cancel_normal_shape.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2a6a5fcbca7d820cb35027346122b6d8\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\item_select_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\picture_library-v2.1.6.aar\\e18466aaf0718900d2670f156bb3b1ed\\res\\drawable\\item_select_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\soft\\CookFriends\\CookFriends\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f243d299e7951d2f761f12b2eb0be63d\\res\\drawable\\notification_bg_low.xml"
+    }
+]
