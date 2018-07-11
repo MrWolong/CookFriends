@@ -10,12 +10,22 @@
 个人模块：主要包含个人信息的修改，和查看个人的分享，收藏夹，喜欢。</br>
 
 ## 效果图展示
-<p><img src="img/20180710171128.png" width="32%" />
-<img src="img/20180710171200.png" width="32%" />
-<img src="img/20180710171257.png" width="32%" />
+<p><img src="img/Screenshot_2018-05-31-17-27-19.jpg" width="32%" />
+<img src="img/Screenshot_2018-05-31-17-27-09.jpg" width="32%" />
+<img src="img/Screenshot_2018-05-31-17-28-09.jpg" width="32%" />
 <img src="Screenshot_2018-05-31-17-28-46.jpg" width="32%" />
 <img src="img/Screenshot_2018-05-31-17-29-44.jpg" width="32%" />
-<img src="img/20180710171304.png" width="32%" />
-<img src="img/20181.jpg" width="32%" />
+<img src="img/Screenshot_2018-07-10-15-24-07.jpg" width="32%" />
+<img src="img/Screenshot_2018-05-31-17-30-18.jpg" width="32%" />
+<img src="img/Screenshot_2018-05-31-17-30-47.jpg" width="32%" />
+<img src="img/Screenshot_2018-05-31-17-33-06.jpg" width="32%" />
+<img src="img/Screenshot_2018-05-31-17-33-52.jpg" width="32%" />
+<img src="img/Screenshot_2018-05-31-17-33-59.jpg" width="32%" />
+<img src="img/Screenshot_2018-05-31-17-38-07.jpg" width="32%" />
+<img src="img/Screenshot_2018-05-31-17-38-15.jpg" width="32%" />
+<img src="img/Screenshot_2018-05-31-17-38-21.jpg" width="32%" />
+<img src="img/Screenshot_2018-05-31-17-38-29.jpg" width="32%" />
+<img src="img/Screenshot_2018-05-31-17-38-58.jpg" width="32%" />
+<img src="img/Screenshot_2018-05-31-17-40-06.jpg" width="32%" />
 </p>
 
