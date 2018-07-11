@@ -25,7 +25,5 @@
 <img src="img/Screenshot_2018-05-31-17-38-15.jpg" width="32%" />
 <img src="img/Screenshot_2018-05-31-17-38-21.jpg" width="32%" />
 <img src="img/Screenshot_2018-05-31-17-38-29.jpg" width="32%" />
-<img src="img/Screenshot_2018-05-31-17-38-58.jpg" width="32%" />
-<img src="img/Screenshot_2018-05-31-17-40-06.jpg" width="32%" />
 </p>
 
